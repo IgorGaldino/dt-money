@@ -1,5 +1,6 @@
 # Dt money
 Aplicação desenvolvida através do ignite pela rocketseat. O objetivo é realizar o controle das transações, sendo elas: gastos ou ganhos.
+
 Esta aplicação possui 3 funcionalidades básicas:
 - Cadastrar a transação;
 - Listar as transações cadastradas;
